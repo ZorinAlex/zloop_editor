@@ -1,0 +1,6 @@
+  {
+    "name": "header",
+    "html": "<div><h1>Hello, I am header1</h1><button id='dd'>button1</button><button id='dd'>button2</button></div>",
+    "css": [{"h1":{"color":"red"}},{"#dd":{"padding": "20px"}}],
+    "js": ""
+  }
