@@ -2,6 +2,7 @@ import Vue from 'vue';
 import Vuex from 'vuex';
 import axios from 'axios';
 Vue.use(Vuex);
+
 let css = {
   getParentsUntil( elem, parent, selector ) {
     // Element.matches() polyfill
@@ -124,6 +125,7 @@ let css = {
     return str
   }
 };
+
 export const store = new Vuex.Store({
   state:{
     templates:[],

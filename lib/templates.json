@@ -2,9 +2,5 @@
   {
     "name": "header1",
     "link": "lib/templates/header1.json"
-  },
-  {
-    "name": "header2",
-    "link": "lib/templates/header2.json"
   }
 ]
